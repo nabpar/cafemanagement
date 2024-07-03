@@ -3,8 +3,7 @@ from django.core.exceptions import ValidationError
 import os
 
 
-from django.db.models.signals import post_save
-from django.dispatch import receiver
+
 
 # Create your models here.
 
